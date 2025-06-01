@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">Dr./Mr. Maged Saeed</h1>
+<h1 align="center">Maged Saeed (Maged S. AlShaibani)</h1>
 <p align="center">
   <em>Researcher & Developer in Arabic Natural Language Processing & Artificial Intelligence</em>
 </p>
