@@ -11,7 +11,6 @@
   <a href="https://twitter.com/_MagedSaeed_"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://www.linkedin.com/in/maged-saeed-2948591b4/)"><img src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
 </p>
----
 
 ## About Me
 
