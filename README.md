@@ -18,7 +18,7 @@ I am a researcher and software engineer with an interest in advancing **Arabic N
 
 ---
 
-## 📊 My GitHub Contributions & Statistics
+Github Most used Languages:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagedSaeed&layout=compact&langs_count=10&theme=merko&hide_border=true" alt="Top Languages" />
